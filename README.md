@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" align="center" height="100" width="150" />
 </div>  
   
 
@@ -67,16 +67,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Akashgupta-webdev" target="_blank">
+<a href="https://github.com/Akashgupta-webdev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-gupta-96ba22259/" target="_blank">
+<a href="https://linkedin.com/in/akash-gupta-96ba22259" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/people/Alex-Akash-Sahu/" target="_blank">
+<a href="https://www.facebook.com/Alex-Akash-Sahu" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/mr_alexu_/" target="_blank">
+<a href="https://instagram.com/mr_alexu_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -86,7 +86,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akashgupta-webdev&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-webdev&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -113,3 +113,4 @@
 ## **<ins>[Donate](https://paytm.me/isY-QAj)</ins>**  
 
 <br />
+
